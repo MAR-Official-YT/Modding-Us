@@ -61,9 +61,10 @@ Join our community of Modding Us! If you encounter any issues, have suggestions,
 This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.
 
 # Modding Us Credits
-- Project Lead and Developer
+- Project Formal Owner (Original Creator)
   - [Pietro](https://www.youtube.com/@pietro420)
-
+- Project Lead & Developer
+  - [AndriesWorks](https://www.youtube.com/@pietro420)
 - Artists
   - [Sonrio](https://www.youtube.com/channel/UCq2mi9fit3RoJAJIP31iKAA)
   - [RSE](https://www.reddit.com/user/rotten_pennis)
